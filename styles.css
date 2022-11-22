@@ -1,0 +1,72 @@
+body {
+    background-color: lightyellow;
+}
+
+nav {
+    padding-right: 50px;
+    display: flex;
+    justify-content: space-between;
+    background-color: lightyellow;
+}
+
+nav.top-nav {
+    position: fixed;
+    top: 0px;
+    right: 0px;
+    left: 0px;
+    box-shadow: 0px 4px 4px grey;
+}
+
+nav.top-nav li {
+    display: inline-block;
+    font-family: sans-serif;
+    font-weight: bold;
+    margin: 5px;
+    user-select: none;
+}
+
+nav h1 {
+    margin: 40px 0 0 45px;
+}
+
+nav img {
+    width: 125px;
+    height: 150px;
+}
+
+.body {
+    margin-top: 170px;
+    text-align: center;
+}
+
+.body section {
+    padding: 10px 0 50px 0;
+}
+
+.body section p {
+    margin: auto;
+    width: 500px;
+}
+
+.body img {
+    width: 600px;
+    height: 400px;
+    padding: 10px;
+}
+
+.body section {
+    text-align: center;
+}
+
+.glitch-embed-wrap {
+    height: 420px;
+    width: 100%;
+}
+
+#project-detail {
+    padding: 10px;
+}
+
+body ul {
+    list-style-type: none;
+}
