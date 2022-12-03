@@ -46,6 +46,13 @@ nav img {
 .body section p {
     margin: auto;
     width: 500px;
+    text-align: left;
+}
+
+.body p{
+    margin: auto;
+    width: 500px;
+    text-align: left;
 }
 
 .body img {
@@ -69,4 +76,10 @@ nav img {
 
 body ul {
     list-style-type: none;
+}
+
+#contact{
+    margin: auto;
+    width: 350px;
+    text-align: left;
 }
