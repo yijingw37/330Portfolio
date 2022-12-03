@@ -49,7 +49,7 @@ nav img {
     text-align: left;
 }
 
-.body p{
+.body p {
     margin: auto;
     width: 500px;
     text-align: left;
@@ -72,13 +72,16 @@ nav img {
 
 #project-detail {
     padding: 10px;
+    margin: auto;
+    width: 500px;
+    text-align: left;
 }
 
 body ul {
     list-style-type: none;
 }
 
-#contact{
+#contact {
     margin: auto;
     width: 350px;
     text-align: left;
